@@ -22,7 +22,7 @@ function checkPassword() {
 
     if (password.length === 0) {
         result.style.color = "red";
-        result.innerHTML = "⚠️ Please enter a password.";
+        result.innerHTML = " Please enter a password.";
         return;
     }
 
@@ -63,7 +63,7 @@ function simulateBruteForce() {
 
     if (length === "" || length <= 0) {
         result.style.color = "red";
-        result.innerHTML = "⚠️ Please enter a valid password length.";
+        result.innerHTML = " Please enter a valid password length.";
         return;
     }
 
