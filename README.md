@@ -34,25 +34,6 @@ This project focuses on human‑centric security by addressing common attack vec
 
 ---
 
-## Project Structure
-cyber-awareness-website/
-│
-├── index.html
-├── learn.html
-├── simulators.html
-├── quiz.html
-├── about.html
-│
-├── assets/
-│ ├── css/
-│ │ └── style.css
-│ ├── js/
-│ │ └── main.js
-│ └── images/
-
-
----
-
 ## Ethical Considerations
 - All simulations are strictly educational
 - No real cyber attacks are performed
@@ -85,3 +66,4 @@ cyber-awareness-website/
 
 ## License
 This project is developed for educational purposes only.
+
