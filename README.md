@@ -60,10 +60,10 @@ This project focuses on human‑centric security by addressing common attack vec
 
 ## Contributors
 - **Shivam Kumar S**
-- **Manya R**
 
 ---
 
 ## License
 This project is developed for educational purposes only.
+
 
